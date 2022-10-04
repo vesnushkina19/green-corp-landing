@@ -62,8 +62,17 @@ button {
       background: url('img/back.png') no-repeat;
       background-position: center;
       background-size: cover;
+      position: relative;
 }
+.orb-canvas {
+    position: absolute;
+    height: 100%;
+    top: 0;
+   height: 100%;
+   right: 0;
 
+
+}
 .about h1 {
         font-size: 70px;
         line-height: 76px;
